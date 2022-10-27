@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dd581878-1e8c-479e-9f7b-e9169d82f468": {
+      "ProjectGuid": "dd581878-1e8c-479e-9f7b-e9169d82f468",
+      "DisplayName": "AddressesApi",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

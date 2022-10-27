@@ -1,1 +1,7 @@
 # AddressesApi
+
+ This API is about addresses. In SQLite Database we have addresses' table, where there are address objects. Using this API we can add, search, change or delete that objects.
+ In this project you can see simple CRUD methods such as GET(with id), POST, PUT & DELETE,
+but main feature is GET for returning multiple addresses with 3 arguments: search phrase for finding exact objects, property name that we use to sort list, and sorting order(ascending or descending).
+ Here you can see 'Social Brothers Task' folder, where there are 'AddressesApi folder' for project and 'AddressDB.sqlite' for SQLite database. You can simply open and start project and then work on address objects with CRUD methods without any problems.
+ From my point of view, this is a good sample of basic API, where logics are written by good standards and principles, and main feature of this project - GET(with 3 arguments) is solved very simply using LINQ queries. Unfortunately, I could not do the third part of task because I have not found geolocation API to use in my project although I searched a lot. However, I think this project has enough things to show you my potential. Hope you will enjoy using this API! :)
